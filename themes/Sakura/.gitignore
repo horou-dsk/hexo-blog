@@ -39,7 +39,7 @@
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
-
+srouce/cdn/
 # JIRA plugin
 atlassian-ide-plugin.xml
 
