@@ -3954,7 +3954,7 @@ li.feature-2 {
     top: 98px !important;
 }
 .top-social_v2 li {
-    margin-right: 0px !important; 
+    margin-right: 0px !important;
     cursor: url(https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cursor/ayuda.cur),auto !important;
 }
 }
@@ -7465,7 +7465,7 @@ to {
     font-family:'Ubuntu',sans-serif
 }
 .serif {
-    font-family:'Source Han Serif SC','Source Han Serif','source-han-serif-sc','PT Serif','SongTi SC','MicroSoft Yahei',Georgia,serif
+    font-family:'Noto Serif SC','Source Han Serif SC','Source Han Serif','source-han-serif-sc','PT Serif','SongTi SC','MicroSoft Yahei',Georgia,serif
 }
 @media(max-width:860px) {
     .serif {
